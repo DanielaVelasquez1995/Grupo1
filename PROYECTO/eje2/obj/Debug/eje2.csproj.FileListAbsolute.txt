@@ -1,0 +1,20 @@
+C:\Users\danie\OneDrive\Desktop\proyecto c#\eje2\bin\Debug\eje2.exe.config
+C:\Users\danie\OneDrive\Desktop\proyecto c#\eje2\bin\Debug\eje2.exe
+C:\Users\danie\OneDrive\Desktop\proyecto c#\eje2\bin\Debug\eje2.pdb
+C:\Users\danie\OneDrive\Desktop\proyecto c#\eje2\obj\Debug\eje2.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\proyecto c#\eje2\obj\Debug\eje2.Form1.resources
+C:\Users\danie\OneDrive\Desktop\proyecto c#\eje2\obj\Debug\eje2.Properties.Resources.resources
+C:\Users\danie\OneDrive\Desktop\proyecto c#\eje2\obj\Debug\eje2.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Desktop\proyecto c#\eje2\obj\Debug\eje2.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\proyecto c#\eje2\obj\Debug\eje2.exe
+C:\Users\danie\OneDrive\Desktop\proyecto c#\eje2\obj\Debug\eje2.pdb
+C:\Users\MINEDUCYT\Downloads\proyecto c#\proyecto c#\eje2\obj\Debug\eje2.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Downloads\proyecto c#\proyecto c#\eje2\obj\Debug\eje2.Form1.resources
+C:\Users\MINEDUCYT\Downloads\proyecto c#\proyecto c#\eje2\obj\Debug\eje2.Properties.Resources.resources
+C:\Users\MINEDUCYT\Downloads\proyecto c#\proyecto c#\eje2\obj\Debug\eje2.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Downloads\proyecto c#\proyecto c#\eje2\obj\Debug\eje2.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Downloads\proyecto c#\proyecto c#\eje2\obj\Debug\eje2.exe
+C:\Users\MINEDUCYT\Downloads\proyecto c#\proyecto c#\eje2\obj\Debug\eje2.pdb
+C:\Users\MINEDUCYT\Downloads\proyecto c#\proyecto c#\eje2\bin\Debug\eje2.exe.config
+C:\Users\MINEDUCYT\Downloads\proyecto c#\proyecto c#\eje2\bin\Debug\eje2.exe
+C:\Users\MINEDUCYT\Downloads\proyecto c#\proyecto c#\eje2\bin\Debug\eje2.pdb
